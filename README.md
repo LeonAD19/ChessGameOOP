@@ -2,7 +2,8 @@
 ## CS 3354 Object Oriented Programming
 ### Team members: Mateo Salinas & Leon Altamirano
 ## Summer II, CS 3354.751 OOP
-# Preview of GUI: ![Chess GUI Screenshot](https://git.txstate.edu/user-attachments/assets/f63bf616-148b-4153-8620-720507dd33bc)
+# Preview of GUI: ![f63bf616-148b-4153-8620-720507dd33bc](https://github.com/user-attachments/assets/416cf9d4-4a6c-4c34-966f-b87b1fc471b8)
+)
 # UML Class Diagram: ![UML Class Diagram](https://git.txstate.edu/user-attachments/assets/f8303892-e806-4e31-957a-034e89384a31)
 
 
